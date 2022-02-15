@@ -1,5 +1,5 @@
-import resume from '../assets/pdf/resume.pdf'
-import logo from '../assets/svg/logo.svg'
+import resume from '../assets/pdf/Humaiun kabir_Resume.pdf';
+import logo from '../assets/svg/logo.svg';
 export const headerData = {
     name: 'Humaiun Kabir',
     title: "Web Developer",
